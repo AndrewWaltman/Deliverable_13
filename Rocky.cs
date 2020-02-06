@@ -4,8 +4,15 @@ using System.Text;
 
 namespace Deliverable_13
 {
-    class Rocky
+    class Rocky : Player
     {
-
+        public Rocky()
+        {
+            Name = "Rocky";
+        }
+        public override Roshambo GetRoshambo()
+        {
+            return Roshambo.Rock;
+        }
     }
 }

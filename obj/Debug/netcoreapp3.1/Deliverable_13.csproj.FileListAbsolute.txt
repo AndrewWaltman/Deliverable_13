@@ -9,3 +9,14 @@ C:\Users\Andrew\Desktop\Shtuff\Coding\Grand Circus\Unit 3\Deliverable_13\Deliver
 C:\Users\Andrew\Desktop\Shtuff\Coding\Grand Circus\Unit 3\Deliverable_13\Deliverable_13\obj\Debug\netcoreapp3.1\Deliverable_13.AssemblyInfo.cs
 C:\Users\Andrew\Desktop\Shtuff\Coding\Grand Circus\Unit 3\Deliverable_13\Deliverable_13\obj\Debug\netcoreapp3.1\Deliverable_13.dll
 C:\Users\Andrew\Desktop\Shtuff\Coding\Grand Circus\Unit 3\Deliverable_13\Deliverable_13\obj\Debug\netcoreapp3.1\Deliverable_13.pdb
+C:\Users\madis\Desktop\Stuff\Coding\Unit_3\Deliverable_13\bin\Debug\netcoreapp3.1\Deliverable_13.exe
+C:\Users\madis\Desktop\Stuff\Coding\Unit_3\Deliverable_13\bin\Debug\netcoreapp3.1\Deliverable_13.deps.json
+C:\Users\madis\Desktop\Stuff\Coding\Unit_3\Deliverable_13\bin\Debug\netcoreapp3.1\Deliverable_13.runtimeconfig.json
+C:\Users\madis\Desktop\Stuff\Coding\Unit_3\Deliverable_13\bin\Debug\netcoreapp3.1\Deliverable_13.runtimeconfig.dev.json
+C:\Users\madis\Desktop\Stuff\Coding\Unit_3\Deliverable_13\bin\Debug\netcoreapp3.1\Deliverable_13.dll
+C:\Users\madis\Desktop\Stuff\Coding\Unit_3\Deliverable_13\bin\Debug\netcoreapp3.1\Deliverable_13.pdb
+C:\Users\madis\Desktop\Stuff\Coding\Unit_3\Deliverable_13\obj\Debug\netcoreapp3.1\Deliverable_13.csprojAssemblyReference.cache
+C:\Users\madis\Desktop\Stuff\Coding\Unit_3\Deliverable_13\obj\Debug\netcoreapp3.1\Deliverable_13.AssemblyInfoInputs.cache
+C:\Users\madis\Desktop\Stuff\Coding\Unit_3\Deliverable_13\obj\Debug\netcoreapp3.1\Deliverable_13.AssemblyInfo.cs
+C:\Users\madis\Desktop\Stuff\Coding\Unit_3\Deliverable_13\obj\Debug\netcoreapp3.1\Deliverable_13.dll
+C:\Users\madis\Desktop\Stuff\Coding\Unit_3\Deliverable_13\obj\Debug\netcoreapp3.1\Deliverable_13.pdb

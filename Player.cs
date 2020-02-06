@@ -4,12 +4,19 @@ using System.Text;
 
 namespace Deliverable_13
 {
-    public abstract class Player
+    abstract class Player
     {
-        public abstract class Roshambo
+        public string Name { get; set; }
+
+        public virtual Roshambo GetRoshambo()
         {
-            string name;
-            string value;
+            return Roshambo.Rock;
         }
+    }
+    public enum Roshambo
+    {
+        Rock,
+        Paper,
+        Scissors
     }
 }
