@@ -6,16 +6,11 @@ namespace Deliverable_13
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("======================================= \nWelcome to the Rock Paper Scissors App\n=======================================");
+            Console.WriteLine("======================================= \nWelcome to the Rock Paper Scissors App\n=======================================\n");
 
-            Human h = new Human();
-            Console.WriteLine(h.GetRoshambo());
+            RoshamboApp rap = new RoshamboApp();
+            Console.Write(rap);
 
-            Randal ra = new Randal();
-            for (int i = 0; i < 10; i++)
-            {
-                Console.WriteLine(ra.GetRoshambo());
-            }
         }
     }
 }

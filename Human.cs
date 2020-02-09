@@ -13,20 +13,20 @@ namespace Deliverable_13
         }
         public override Roshambo GetRoshambo()
         {
-            Console.WriteLine("Please select Rock, Paper, or Scissors (please keep to capitalization)");
-            string input = Console.ReadLine().Trim();
+            Console.WriteLine("Please select Rock, Paper, or Scissors");
+            string input = Console.ReadLine().ToLower().Trim();
 
-            if (input == Roshambo.Rock.ToString())
+            if (input == Roshambo.rock.ToString())
             {
-                return Roshambo.Rock;
+                return Roshambo.rock;
             }
-            else if (input == Roshambo.Paper.ToString())
+            else if (input == Roshambo.paper.ToString())
             {
-                return Roshambo.Paper;
+                return Roshambo.paper;
             }
-            else if (input == Roshambo.Scissors.ToString())
+            else if (input == Roshambo.scissors.ToString())
             {
-                return Roshambo.Scissors;
+                return Roshambo.scissors;
             }
             else
             {

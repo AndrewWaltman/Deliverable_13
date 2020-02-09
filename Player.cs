@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Deliverable_13
 {
-    //I would say the most important Class of the application.
+    //Here is the player class, and the Parent Class.
     //Player is made as an abstract because the Lab asked us to.
     abstract class Player
     {
@@ -14,7 +14,7 @@ namespace Deliverable_13
         //This creates a Roshambo value, makes it virtual so it can be overridden later. The current return doesn't matter basically.
         public virtual Roshambo GetRoshambo()
         {
-            return Roshambo.Rock;
+            return Roshambo.rock;
         }
     }
     //Here is the first things asked of us, the enum Roshambo with the values Rock, Paper, and Scissors.
@@ -22,8 +22,8 @@ namespace Deliverable_13
     //When calling an enum, we may have to change the typing for later.
     public enum Roshambo
     {
-        Rock,
-        Paper,
-        Scissors
+        rock,
+        paper,
+        scissors
     }
 }
